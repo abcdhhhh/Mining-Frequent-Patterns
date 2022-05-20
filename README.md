@@ -18,7 +18,7 @@
 
 运行 `main.py` 即可比较 3 种算法在相同数据集下的运行效率。
 
-在随机生成的数据下，运行效率 FPGrowth > Eclat ≈ Apriori
+在随机生成的数据下，运行效率 FPGrowth, Eclat > Apriori
 
 ![image-20220429203007021](README.assets/image-20220429203007021.png)
 
